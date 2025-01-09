@@ -1,2 +1,4 @@
-# toko-roti_online_ria
-webite tugas arsitektur ria
+# Toko Online Roti
+Project Toko Online Roti Lengkap dengan proses manufacturing
+
+UNTUK MASUK HALAMAN ADMIN SILAHKAN MASUK DENGAN MENAMBAHKAN /admin PADA URL
